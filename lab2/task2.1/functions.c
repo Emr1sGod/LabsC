@@ -27,7 +27,7 @@ double outputRadiusInscribedSphere(int *lengthEdge) {
 }
 
 void outputInfo() {
-	printf("Автор: Акиншев Дмитрий, студент гр. 053501\nВерсия программы: v1.0.0");
+	printf("Автор: Адномах Иван, студент гр. 053503ы\nВерсия программы: v1.0.0");
 }
 
 void end() {
